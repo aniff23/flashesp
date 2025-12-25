@@ -1,6 +1,6 @@
 ---
 name: 🐛 Bug Report
-description: Report a bug or issue you've encountered
+about: Report a bug or issue you've encountered
 title: "[BUG] "
 labels: ["bug", "needs triage"]
 assignees: []

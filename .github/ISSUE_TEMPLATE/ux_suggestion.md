@@ -1,6 +1,6 @@
 ---
 name: 💡 Product & UX Suggestion
-description: Share ideas for improving the user experience or product
+about: Share ideas for improving the user experience or product
 title: "[UX] "
 labels: ["ux", "needs triage"]
 assignees: []

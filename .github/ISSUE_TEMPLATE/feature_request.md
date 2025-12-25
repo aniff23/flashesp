@@ -1,6 +1,6 @@
 ---
 name: ✨ Feature Request
-description: Suggest a new feature or enhancement for FlashESP
+about: Suggest a new feature or enhancement for FlashESP
 title: "[FEATURE] "
 labels: ["enhancement", "needs triage"]
 assignees: []

@@ -1,6 +1,6 @@
 ---
 name: ❓ Question
-description: Ask a question about FlashESP
+about: Ask a question about FlashESP
 title: "[QUESTION] "
 labels: ["question", "needs triage"]
 assignees: []

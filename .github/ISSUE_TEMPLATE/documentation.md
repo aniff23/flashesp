@@ -1,6 +1,6 @@
 ---
 name: 📚 Documentation Improvement
-description: Report missing, unclear, or outdated documentation
+about: Report missing, unclear, or outdated documentation
 title: "[DOCS] "
 labels: ["documentation", "needs triage"]
 assignees: []
